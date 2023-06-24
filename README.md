@@ -10,7 +10,8 @@ A device that can monitor the IAQ by detecting air quality gases such as Ammonia
 <img src="schematic diagram.png">
   
 <br />
-## Materials
+
+## Materials 
 ### Main Components
 - 1pc Arduino Uno
 - 1pc DHT11 Humidity and Temperature Sensor
